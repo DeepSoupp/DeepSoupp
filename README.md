@@ -1,11 +1,11 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO!%20&fontSize=90)
-
+<br/>
+I want ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <div align=center>
 
 
-I want ,, ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <!--
 **DeepSoupp/DeepSoupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
