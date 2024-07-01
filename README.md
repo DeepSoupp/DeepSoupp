@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO!%20&fontSize=90)
 <br/>
-![]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white))
+![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 <div align=center>
 
 
